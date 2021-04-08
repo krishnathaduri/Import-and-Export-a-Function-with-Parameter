@@ -1,0 +1,1 @@
+const prod = require("./exportFunctionWithParameter");
